@@ -3,3 +3,4 @@ Escribid en este archivo los nombres de los discos de Madonna. Os los repartís 
 Cada uno de vosotros tendrá que crear un archivo "nombreDelDisco.txt" y en su contenido debe aparecer los títulos de las canciones
 
   *Índice de los discos de Madonna*
+  Bad
